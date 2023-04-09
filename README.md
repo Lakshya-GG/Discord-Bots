@@ -19,7 +19,7 @@
 You can play music with a link from YouTube,a  major platform for music streaming , you can search for a song by just typing out the name after the play command (/play [song name/link]). You can also create song queues, loop songs, shuffle your queue, display lyrics, and every other music adjustment command.
 
 
-### Resources
+## Resources
 Here are some additional resources for Discord bots :
 <ul>
 <li><a href ="https://stackoverflow.com/questions/46085025/discord-bot-help-needed">
@@ -30,6 +30,6 @@ Stack Overflow - A community-driven Q&A site for programming questions
 
 </ul>
 
-### Contributing
+## Contributing
 If you have any suggestions or would like to contribute to this project, please feel free to open an issue or submit a pull request.
 
